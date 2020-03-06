@@ -1,0 +1,11 @@
+C:\Users\Любимов\source\repos\ParseApi\ReposytoryPattern\bin\Debug\netcoreapp2.1\ReposytoryPattern.deps.json
+C:\Users\Любимов\source\repos\ParseApi\ReposytoryPattern\bin\Debug\netcoreapp2.1\ReposytoryPattern.dll
+C:\Users\Любимов\source\repos\ParseApi\ReposytoryPattern\obj\Debug\netcoreapp2.1\ReposytoryPattern.csprojAssemblyReference.cache
+C:\Users\Любимов\source\repos\ParseApi\ReposytoryPattern\obj\Debug\netcoreapp2.1\ReposytoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\Любимов\source\repos\ParseApi\ReposytoryPattern\obj\Debug\netcoreapp2.1\ReposytoryPattern.AssemblyInfoInputs.cache
+C:\Users\Любимов\source\repos\ParseApi\ReposytoryPattern\obj\Debug\netcoreapp2.1\ReposytoryPattern.AssemblyInfo.cs
+C:\Users\Любимов\source\repos\ParseApi\ReposytoryPattern\bin\Debug\netcoreapp2.1\ReposytoryPattern.runtimeconfig.json
+C:\Users\Любимов\source\repos\ParseApi\ReposytoryPattern\bin\Debug\netcoreapp2.1\ReposytoryPattern.runtimeconfig.dev.json
+C:\Users\Любимов\source\repos\ParseApi\ReposytoryPattern\bin\Debug\netcoreapp2.1\ReposytoryPattern.pdb
+C:\Users\Любимов\source\repos\ParseApi\ReposytoryPattern\obj\Debug\netcoreapp2.1\ReposytoryPattern.dll
+C:\Users\Любимов\source\repos\ParseApi\ReposytoryPattern\obj\Debug\netcoreapp2.1\ReposytoryPattern.pdb
